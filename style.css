@@ -1,0 +1,75 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+}
+
+.link-login {
+    display: block;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+    margin-top: 120px;
+    margin-left: 16px;
+    margin-bottom: 12px;
+}
+
+.enter-email {
+    display: block;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #808080;
+    margin-left: 16px;
+    margin-bottom: 102px;
+}
+
+input {
+    display: block;
+    background: #F2F2F7;
+    border-radius: 6px;
+    border: none;
+    Width: 343px;
+    Height: 48px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.input-email {
+    margin-bottom: 12px;
+}
+
+.forgot-password {
+    display: block;
+    text-decoration: none;
+    text-align: right;
+    color: #007AFF;
+    margin-top: 17px;
+    margin-bottom: 20px;
+}
+
+button {
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    color: #FFFFFF;
+    width: 343px;
+    Height: 48px;
+    border: none;
+    margin-bottom: 180px;
+}
+
+.no-account {
+    color: rgba(0, 0, 0, 0.51);
+    text-decoration: none;
+    margin-left: 75px;
+}
+
+strong {
+    color: #007AFF;
+}
